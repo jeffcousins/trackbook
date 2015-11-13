@@ -29,7 +29,7 @@ Built with React Native
 #### I just downloaded it and tried it out. Now what? ####
   Hey! Now you can show me all the books you've read! Let's discuss your favorites over coffee.
 
-  > "Read moar!" -Jeff Cousins
+  > "Read moar!" _-Jeff Cousins_
 
 ## How to Get Started ##
   Download the app from Apple's App Store. Log in with your GitHub username, search for a book, and tap it to add it to your collection. It's that easy.
