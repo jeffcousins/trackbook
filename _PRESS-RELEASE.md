@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > TrackBook
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > An iOS app that helps you keep track of the books you've read.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > If you have a bookshelf, then there's a good chance you own a ton of books. However, you probably have either read other books you don't own, read a few online, or even listened to some in audiobook format. The collection on your shelf is not a true representation of all the text you've read. With TrackBook, you have a quick reference to all the knowledge and stories you've encountered.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Can you tell me the titles of all the books you've ever read? If not, you need TrackBook for your mobile device.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Hey! Now you can show me all the books you've read! Let's discuss your favorites over coffee.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "Read moar!" -Jeff Cousins
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Download the app from Apple's App Store. Log in with your GitHub username, search for a book, and tap it to add it to your collection. It's that easy.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "My goal this year was to read twenty-four new books. TrackBook helped me keep track of them all and allowed me to search for new books by my favorite authors." _-Wise man_
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Get TrackBook on your iPhone!
