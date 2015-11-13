@@ -38,7 +38,7 @@ Once the project moves into development, the press release can be used as a touc
   > Download the app from Apple's App Store. Log in with your GitHub username, search for a book, and tap it to add it to your collection. It's that easy.
 
 ## Customer Quote ##
-  > "My goal this year was to read twenty-four new books. TrackBook helped me keep track of them all and allowed me to search for new books by my favorite authors." _-Wise man_
+  > "My goal this year was to read twenty-four new books. TrackBook helped me keep track of them all and allowed me to search for new books by my favorite authors." -Hermione Granger
 
 ## Closing and Call to Action ##
   > Get TrackBook on your iPhone!
