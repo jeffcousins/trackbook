@@ -5,6 +5,8 @@
 Built with React Native.
 This was a two-day solo MVP project.
 
+[![Watch demo on YouTube](/screenshots/youtube.png?raw=true "Watch demo on YouTube")](https://youtu.be/xsaB9li1Bac)
+
 ### What does it do for me? ###
   If you have a bookshelf, then there's a good chance you own a ton of books. However, you probably have either read other books you don't own, read a few online, or even listened to some in audiobook format. The collection on your shelf is not a true representation of all the text you've read. With TrackBook, you have a quick reference to all the knowledge and stories you've encountered.
 
@@ -23,3 +25,8 @@ This was a two-day solo MVP project.
 
 ### So now what? ###
   Get TrackBook on your iPhone!
+
+![Dashboard](/screenshots/dashboard.png?raw=true "Dashboard")
+![Book Collection](/screenshots/myBooks.png?raw=true "Book Collection")
+![Search](/screenshots/searchView.png?raw=true "Search")
+![Search Results](/screenshots/searchResults.png?raw=true "Search Results")
